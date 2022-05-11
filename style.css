@@ -1,0 +1,52 @@
+body{
+  background-color:#171616;
+  display: flex;
+  /* justify-content: center; */
+  /* align-items: flex-start; */
+  flex-direction: column;
+}
+
+header{
+  background-color: grey;
+  height: 130px;
+  width: 60px;
+  margin: auto;
+  
+  
+}
+
+main{
+  background-color: grey;
+  height: 380px;
+  width: 130px;
+  margin: auto;
+  margin-bottom:90px ;
+  
+}
+
+.redlight{
+  background-color: red;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+.yellowlight{
+  background-color: yellow;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  margin-left: 15px;
+  margin-top: 20px;
+}
+
+.greenlight{
+  background-color: green;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  margin-left: 15px;
+  margin-top: 20px;
+}
